@@ -272,13 +272,7 @@ Contributions are welcome! Here's how to get started:
 
 Please make sure your code follows clean coding practices and is well-commented.
 
----
 
-## 📄 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
----
 
 ## 👨‍💻 Author
 
